@@ -32,15 +32,14 @@
 
 ### Game & XR
 - Unity (XR Interaction Toolkit)
-- Meta Quest 3 (PCVR)
-- Shader Graph
-- VR Interaction Design
+- Meta Quest 3
+- Blender(Basic)
+- Unreal(Basic)
 
 ### Tools & Environments
 - Git / GitHub
 - Visual Studio / VS Code
 - Linux (Ubuntu)
-- Windows
 - Conda / vcpkg / CMake
 
 ---
