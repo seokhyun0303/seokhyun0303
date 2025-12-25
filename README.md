@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-    <a href="https://your-link-to-cv.pdf">
+    <a href="https://raw.githubusercontent.com/seokhyun0303/seokhyun0303/main/Seokhyun_Cho_CV.pdf
+">
         <img src="https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader">
     </a>
 </p>
