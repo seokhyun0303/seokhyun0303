@@ -30,12 +30,6 @@
 - Python
 - C#
 
-### Graphics · Vision · Reconstruction
-- COLMAP (SfM / MVS)
-- OpenMVS
-- 3D Gaussian Splatting
-- OpenCV
-
 ### Game & XR
 - Unity (XR Interaction Toolkit)
 - Meta Quest 3 (PCVR)
