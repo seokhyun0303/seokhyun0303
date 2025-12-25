@@ -4,8 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Seokhyun Cho</h1>
 <p align="center">
-    VR / Computer Vision / 3D Reconstruction Developer <br/>
-    Unity · OpenMVS · COLMAP · 3D Gaussian Splatting
+    Interested in VR / AR / XR / Human Computer Interaction <br/>
 </p>
 
 <p align="center">
