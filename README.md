@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/seokhyun0303/seokhyun0303/main/Seokhyun Cho CV.pdf
-">
-        <img src="https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader">
-    </a>
+    [![CV PDF](https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](
+https://github.com/seokhyun0303/seokhyun0303/blob/main/Seokhyun_Cho_CV.pdf
+)
+
 </p>
 
 ---
