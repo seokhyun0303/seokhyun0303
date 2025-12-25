@@ -80,12 +80,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seokhyun0303&show_icons=true&theme=default" />
-</p>
-
----
 
 ## 📫 Contact
 - Email: seokhyuncho0303@gmail.com
