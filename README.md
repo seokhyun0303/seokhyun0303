@@ -56,7 +56,7 @@
     <img width="420" src="3dgsvr.png" alt="Photorealistic VR Tour with 3D Gaussian Splatting" />
   </a>
   <a href="https://github.com/seokhyun0303/VR-DRUM">
-    <img width="420" src="vrdrum.png" alt="VR-DRUM" />
+    <img width="420" src="vrdrum.jpg" alt="VR-DRUM" />
   </a>
 </p>
 
