@@ -8,8 +8,14 @@
 </p>
 
 <p align="center">
+  <!-- View CV -->
   <a href="https://github.com/seokhyun0303/seokhyun0303/blob/main/Seokhyun Cho CV.pdf">
-    <img src="https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader">
+    <img src="https://img.shields.io/badge/View%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader">
+  </a>
+  
+  <!-- Download CV -->
+  <a href="https://raw.githubusercontent.com/seokhyun0303/seokhyun0303/main/Seokhyun Cho CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-green?style=for-the-badge&logo=adobeacrobatreader">
   </a>
 </p>
 
