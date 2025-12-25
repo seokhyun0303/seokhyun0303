@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- ===================== -->
+<!--  GitHub Profile README -->
+<!-- ===================== -->
 
-<!--
-**seokhyun0303/seokhyun0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Seokhyun Cho</h1>
+<p align="center">
+    VR / Computer Vision / 3D Reconstruction Developer <br/>
+    Unity · OpenMVS · COLMAP · 3D Gaussian Splatting
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://your-link-to-cv.pdf">
+        <img src="https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader">
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+- **B.S. in Computer Science and Engineering**  
+  Konkuk University (KU), Seoul, Korea                           March 2020 – Aug 2026                          
+
+
+---
+
+## 🛠 Skills
+
+### Programming Languages
+- C / C++
+- Python
+- C#
+
+### Graphics · Vision · Reconstruction
+- COLMAP (SfM / MVS)
+- OpenMVS
+- 3D Gaussian Splatting
+- OpenCV
+
+### Game & XR
+- Unity (XR Interaction Toolkit)
+- Meta Quest 3 (PCVR)
+- Shader Graph
+- VR Interaction Design
+
+### Tools & Environments
+- Git / GitHub
+- Visual Studio / VS Code
+- Linux (Ubuntu)
+- Windows
+- Conda / vcpkg / CMake
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/seokhyun0303/Photorealistic-VR-Tour-with-3D-Gaussian-Splatting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seokhyun0303&repo=Photorealistic-VR-Tour-with-3D-Gaussian-Splatting" />
+  </a>
+  <a href="https://github.com/seokhyun0303/VR-DRUM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seokhyun0303&repo=VR-DRUM" />
+  </a>
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seokhyun0303&show_icons=true&theme=default" />
+</p>
+
+---
+
+## 📫 Contact
+- Email: seokhyuncho0303@gmail.com
+- GitHub: https://github.com/seokhyun0303
+
