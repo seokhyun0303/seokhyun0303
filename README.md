@@ -53,18 +53,29 @@
 
 <p align="center">
   <a href="https://github.com/seokhyun0303/Photorealistic-VR-Tour-with-3D-Gaussian-Splatting">
-    <img width="420" src="3dgsvr.png" alt="Photorealistic VR Tour with 3D Gaussian Splatting" />
-  </a>
-  <a href="https://github.com/seokhyun0303/VR-DRUM">
-    <img width="420" src="vrdrum.jpg" alt="VR-DRUM" />
+    <img width="520" src="3dgsvr.png" alt="Photorealistic VR Tour with 3D Gaussian Splatting" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/seokhyun0303/Photorealistic-VR-Tour-with-3D-Gaussian-Splatting"><b>Photorealistic VR Tour (3DGS)</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/seokhyun0303/VR-DRUM"><b>VR DRUM</b></a>
+  <a href="https://github.com/seokhyun0303/Photorealistic-VR-Tour-with-3D-Gaussian-Splatting">
+    <b>Photorealistic VR Tour (3D Gaussian Splatting)</b>
+  </a>
 </p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/seokhyun0303/VR-DRUM">
+    <img width="520" src="vrdrum.jpg" alt="VR-DRUM" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/seokhyun0303/VR-DRUM">
+    <b>VR DRUM</b>
+  </a>
+</p>>
 
 
 ---
